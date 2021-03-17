@@ -1,2 +1,2 @@
 # hello toast
-![](app/src/main/res/drawable/task6.gif)
+![](app/src/main/res/drawable/challenge.gif)
